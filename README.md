@@ -1,0 +1,2 @@
+# Syntecxhub_Student_Performance_Analysis
+Student Performance Analysis Dashboard on PowerBi
